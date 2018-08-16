@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SenjataJepang" size="200.000000 314.009674" />
+    <ImageTarget name="SamuraiJepang" size="200.000000 314.009674" />
+    <ImageTarget name="PeluruMortir" size="200.000000 314.009674" />
+    <ImageTarget name="PelontarMortir" size="200.000000 314.009674" />
+    <ImageTarget name="LoncengBekasBom" size="200.000000 314.009674" />
+    <ImageTarget name="Kulkul" size="200.000000 314.009674" />
+  </Tracking>
+</QCARConfig>
